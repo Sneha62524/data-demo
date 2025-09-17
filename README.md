@@ -1,2 +1,2 @@
 # data-demo
-This is a Demo for Git &amp; Git hub
+This is a Demo for Git &amp; Git hub class.
